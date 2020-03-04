@@ -35,7 +35,8 @@ When your ready to upload your new code to the branch:
 If you want to commit the changes from a branch to the master branch (or sub-branch) follow these steps. 
 1) Log into github.com with your username and password.  
 2) Select the repository you are working on. 
-
+3) Under the branch dropdown list select the branch where your modified code is.
+4) 
 
 3) Enter the branch with modified code by typing git branch newbranchname and hit ENTER.
 2) Type git merge master to have git combine the master branch with the modified code. 
