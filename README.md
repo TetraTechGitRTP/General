@@ -1,4 +1,4 @@
-# Set Up Tetra Tech GitHub Account and Local Repository
+# Setting up Tetra Tech GitHub account and local repository
 1) Download Git at https://git-scm.com/download/win. Select 64 bit for Windows. 
 2) Do not change any of the installation defaults and continue clicking next until Git is installed.
 3) Create a folder where you'd like to store all Tetra Tech repository files. We suggest creating the folder C:\GitHub (path is used in the rest of these examples).
