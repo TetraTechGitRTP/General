@@ -36,10 +36,8 @@ If you want to commit the changes from a branch to the master branch (or sub-bra
 1) Log into github.com with your username and password.  
 2) Select the repository you are working on. 
 3) Under the branch dropdown list select the branch where your modified code is.
-4) 
-
-3) Enter the branch with modified code by typing git branch newbranchname and hit ENTER.
-2) Type git merge master to have git combine the master branch with the modified code. 
-3) You will likely have merge conflicts that will need to be sorted out. You must fix the conflicts and then commit them by typing git commit -m "desription". When you get a long commit message and are stuck enter the ESC button and then type :wq and hit ENTER to finish the commit. 
-4) This is to test the next steps go.
-5) Second test for banching...
+4) Click the compare and pull request button. 
+5) Enter a title and description for the specific changes to the code you made. 
+6) Click the green SEND PULL REQUEST button.
+7) Ideally, another member of the team should review the pull request before clicking on the MERGE PULL REQUEST button. However, for our teams most individuals will be merging pull requests themselves.
+8) Once the merge pull request is complete you can delete the branch, should you so desire.
