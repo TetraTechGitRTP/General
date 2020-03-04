@@ -8,6 +8,7 @@
 1) The Project manager should log into the main TT git account using the following information - Username: TetraTechGitRTP; Password: !!Tt123456
 2) Once logged in, click on the repositories tab and click the green NEW button.
 3) Follow on screen instructions to set up your repository to suit your specific needs.
+4) Be sure to make the repository private, and then to invite specific team members to the repo. This will preserve our IP.
 
 # Adding repository to your local drive
 2) Open command line by clicking the start menu and typing "cmd" and hit ENTER.
