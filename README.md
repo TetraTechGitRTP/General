@@ -5,17 +5,16 @@
 4) Create a GitHub account using your TetraTech email address at www.github.com.
 
 # Creating new repository
-1) The Project manager should log into the main TT git account using the following:
-    Username = TetraTechGitRTP
-    Password = !!Tt123456
-2) Once logged in, click on the repositories tab. 
+1) The Project manager should log into the main TT git account using the following information - (Username: TetraTechGitRTP, Password: !!Tt123456)
+2) Once logged in, click on the repositories tab.
 
+# Adding repository to your local drive
 2) Open command line by clicking the start menu and typing "cmd" and hit ENTER.
 3) Navigate to where you'd like to store all Tetra Tech repo files. We suggest C:\GitHub and use it in the rest of these examples.
 4) In the command line type "git clone https://github.com/BRPickard/Temp_TetraTech_Tutorial.git" and hit ENTER.
 5) Navigate to your GitHub folder and you should see your repository and all the files.
 
-# Creating a new branch when modifying code ###
+# Creating a new branch when modifying code 
 This general workflow is a simple approach for using GitHub for versioning control. All of this is done in the command line after navigating to the folder within your GitHub local folder. There are really only about 5 commands that you need to remember to use GitHub from the command line. After you have modified all of your code, follow these steps to push these changes to a branch.
 
 1) Get the latest version of the files by typing git pull and hit ENTER.
