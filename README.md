@@ -5,7 +5,11 @@
 4) Create a GitHub account using your TetraTech email address at www.github.com.
 
 # Creating new repository
-1) Project manager should navigate to the Tetra
+1) The Project manager should log into the main TT git account using the following:
+    Username = TetraTechGitRTP
+    Password = !!Tt123456
+2) Once logged in, click on the repositories tab. 
+
 2) Open command line by clicking the start menu and typing "cmd" and hit ENTER.
 3) Navigate to where you'd like to store all Tetra Tech repo files. We suggest C:\GitHub and use it in the rest of these examples.
 4) In the command line type "git clone https://github.com/BRPickard/Temp_TetraTech_Tutorial.git" and hit ENTER.
