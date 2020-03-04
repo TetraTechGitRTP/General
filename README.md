@@ -31,9 +31,13 @@ When your ready to upload your new code to the branch:
 4) Push the changes to GitHub repository by typing git push.
 5) You will likely be given a prompt for pushing the current branch upstream - highlight the push command git provides and copy/paste it into the command line, then hit ENTER.
 
-# Modifying the master branch
+# Modifying the master or sub-branch
 If you want to commit the changes from a branch to the master branch (or sub-branch) follow these steps. 
-1) Enter the branch with modified code by typing git branch newbranchname and hit ENTER.
+1) Log into github.com with your username and password.  
+2) Select the repository you are working on. 
+
+
+3) Enter the branch with modified code by typing git branch newbranchname and hit ENTER.
 2) Type git merge master to have git combine the master branch with the modified code. 
 3) You will likely have merge conflicts that will need to be sorted out. You must fix the conflicts and then commit them by typing git commit -m "desription". When you get a long commit message and are stuck enter the ESC button and then type :wq and hit ENTER to finish the commit. 
 4) This is to test the next steps go.
