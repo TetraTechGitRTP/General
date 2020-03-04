@@ -25,11 +25,11 @@ Prior to starting code modifications:
 4) Modify your code. (This can be done over minutes or weeks).
 
 When your ready to upload your new code to the branch:
-4) Switch to new branch by typing git checkout newbranchname and hit ENTER.
-5) Add your new code to the branch by typing git add -A and hit ENTER.
-6) Commit the changes and include a description by typing git commit -m "1-line descriptive text about your change" and hit ENTER.
-7) Push the changes to GitHub repository by typing git push.
-8) You will likely be given a prompt for pushing the current branch upstream - highlight the push command git provides and copy/paste it into the command line, then hit ENTER.
+5) Switch to new branch by typing git checkout newbranchname and hit ENTER.
+6) Add your new code to the branch by typing git add -A and hit ENTER.
+7) Commit the changes and include a description by typing git commit -m "1-line descriptive text about your change" and hit ENTER.
+8) Push the changes to GitHub repository by typing git push.
+9) You will likely be given a prompt for pushing the current branch upstream - highlight the push command git provides and copy/paste it into the command line, then hit ENTER.
 
 # Modifying the master branch
 If you want to commit the changes from a branch to the master branch (or sub-branch) follow these steps. 
