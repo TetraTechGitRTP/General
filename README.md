@@ -41,3 +41,7 @@ If you want to commit the changes from a branch to the master branch (or sub-bra
 6) Click the green SEND PULL REQUEST button.
 7) Ideally, another member of the team should review the pull request before clicking on the MERGE PULL REQUEST button. However, for our teams most individuals will be merging pull requests themselves.
 8) Once the merge pull request is complete you can delete the branch, should you so desire.
+
+# Gmail login info:
+Account - TetraTech.Git.RTP@gmail.com
+Password - TT1234
